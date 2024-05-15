@@ -397,29 +397,27 @@ section .main .main_img img {
   color: #eaeaea;
 }
 
-.reviews .reviews_box .reviews_card .card_top img{
+.reviews .reviews_box .reviews_card .card_top img {
   width: 80px;
   border-radius: 80%;
   margin-bottom: 8px;
 }
 
-.reviews .reviews_box .reviews_card .card h2{
+.reviews .reviews_box .reviews_card .card h2 {
   font-size: 18px;
 }
 
-.reviews .reviews_box .reviews_card .card p{
+.reviews .reviews_box .reviews_card .card p {
   margin: 10px 0 10px 0;
   text-align: justify;
   line-height: 15px;
   font-size: 16px;
 }
 
-.reviews .reviews_box .reviews_card .card .reviews_icon i{
+.reviews .reviews_box .reviews_card .card .reviews_icon i {
   font-size: 16px;
   float: left;
   color: #089da1;
   padding: 0 1px;
   margin-top: 30px;
-
 }
-
